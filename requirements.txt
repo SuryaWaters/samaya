@@ -1,0 +1,3 @@
+# Samaya has no external dependencies
+# Python standard library only
+# Minimum Python version: 3.6+
